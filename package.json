@@ -3,7 +3,7 @@
   "main": "./lib/git-projects",
   "version": "1.17.0",
   "description": "List and open your local Git projects in Atom.",
-  "repository": "https://github.com/prrrnd/atom-git-projects",
+  "repository": "https://github.com/crudo/atom-git-projects",
   "license": "MIT",
   "activationCommands": {
     "atom-workspace": [
@@ -23,9 +23,8 @@
     "atom": ">=1.2.0 <2.0.0"
   },
   "dependencies": {
-    "atom-space-pen-views": "^2.0.3",
-    "git-utils": "^4.0.7",
-    "season": "1.x",
-    "fs-plus": "2.6.0"
+    "atom-space-pen-views": "2.2.0",
+    "fs-plus": "3.1.1",
+    "season": "6.0.2"
   }
 }

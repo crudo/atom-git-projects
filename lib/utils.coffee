@@ -1,6 +1,5 @@
 fs = require 'fs-plus'
 path = require 'path'
-git = require 'git-utils'
 
 sorts = new Map
 sorts.set 'Project name', (a, b) ->

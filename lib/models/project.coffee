@@ -1,4 +1,3 @@
-git = require 'git-utils'
 _path = require 'path'
 CSON = require 'season'
 fs = require 'fs'

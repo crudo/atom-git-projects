@@ -1,12 +1,5 @@
-git = require 'git-utils'
-
 readGitInfo = (path) ->
-  repository = git.open path
-  result =
-    branch: repository.getShortHead()
-    dirty: Object.keys(repository.getStatus()).length != 0
-
-  repository.release()
+  result = {}
   return result
 
 module.exports = (path) ->
