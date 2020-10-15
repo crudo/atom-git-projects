@@ -77,4 +77,4 @@ The project icon can also be customized.
 
 ## Other <a id="other"></a>
 
-You can follow me on [Twitter](https://twitter.com/prrrnd)
+You can follow me on [Twitter](https://twitter.com/prrrnd) 
